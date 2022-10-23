@@ -1,0 +1,36 @@
+.li-container{
+    list-style-type: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    padding: 7px;
+    height: auto;
+    width: 94%;
+}
+
+.item-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    background-color: transparent;
+    border: 0px;
+}
+
+.heading {
+    color: rgb(47, 42, 42);
+    font-size: 25px;
+}
+
+.answer-paragraph {
+    color: rgb(94, 94, 94);
+    font-size: 16px;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
